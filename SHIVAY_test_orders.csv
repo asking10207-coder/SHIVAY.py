@@ -1,0 +1,6 @@
+Order Value,Delivery Fee,Payment Method,Discounts and Offers,Commission Fee,Payment Processing Fee,Refunds/Chargebacks,Order_Hour,Day_of_Week,Weekend
+500,40,UPI,20% Off,80,10,0,13,Monday,0
+800,60,Credit Card,No Discount,120,15,0,20,Saturday,1
+300,30,Cash,10% Off,50,5,50,11,Tuesday,0
+1200,70,UPI,Free Delivery,180,20,0,21,Sunday,1
+650,50,Debit Card,No Discount,100,12,0,18,Friday,0
